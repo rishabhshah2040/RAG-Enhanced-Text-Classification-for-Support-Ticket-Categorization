@@ -7,13 +7,12 @@ This task involves developing a text classification system using a Retrieval-Aug
 The problem involves the need to efficiently categorize customer support tickets into specific categories based on their content. With a large volume of support requests, manually sorting these tickets is time-consuming and prone to errors. The challenge is to develop an automated text classification system using a Retrieval-Augmented Generation (RAG) approach, leveraging the capabilities of a pre-trained large language model (LLM). The system must accurately retrieve relevant information from a knowledge base and classify each support ticket into the correct category, such as "Login Issues" or "Billing," to streamline the support process and improve response times.
 
 ## Technology Stack
-1. Programming Language: Python
-2. Machine Learning Framework: PyTorch
-3. Transformers Library: Hugging Face (AutoTokenizer, AutoModelForCausalLM)
-4. Sentence Embeddings: SentenceTransformers
-5. Vector Search: FAISS (Facebook AI Similarity Search)
-6. Data Handling: NumPy
-7. Logging: Python's logging module
+1. **Programming Language**: Python
+2. **Machine Learning Framework**: PyTorch
+3. **Transformers Library**: Hugging Face (AutoTokenizer, AutoModelForCausalLM)
+4. **Sentence Embeddings**: SentenceTransformers
+5. **Vector Search**: FAISS (Facebook AI Similarity Search)
+6. **Data Handling**: NumPy
 
 ## Project Description
 The project aims to develop an automated text classification system to categorize customer support tickets using a Retrieval-Augmented Generation (RAG) approach. Leveraging a pre-trained large language model (LLM), the system retrieves relevant information from a knowledge base and generates accurate classification labels for support tickets. The system is designed to handle various categories, such as "Login Issues" or "Billing," based on the content of the tickets. The implementation utilizes PyTorch for model operations, Hugging Face's Transformers library for tokenization and model management, SentenceTransformers for embedding generation, and FAISS for efficient vector search. The final deliverables include a Python Jupyter notebook demonstrating the solution, a README file detailing the approach, and a requirements.txt file listing dependencies. The goal is to create an efficient and scalable solution that streamlines the support process by reducing manual ticket classification.
