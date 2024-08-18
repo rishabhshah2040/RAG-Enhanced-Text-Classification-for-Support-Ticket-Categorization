@@ -3,7 +3,7 @@
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-29B5E8?style=for-the-badge&logo=HuggingFace&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence Transformers-4285F4?style=for-the-badge&logo=Sentence Transformers&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4285F4?style=for-the-badge&logo=SentenceTransformers&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-FF9900?style=for-the-badge&logo=numpy&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF9900?style=for-the-badge&logo=faiss&logoColor=white)
 
