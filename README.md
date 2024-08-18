@@ -1,5 +1,9 @@
 # RAG-Enhanced-Text-Classification-for-Support-Ticket-Categorization
 
+## Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-29B5E8?style=for-the-badge&logo=HuggingFace&logoColor=white)
+
 ## Overview
 This task involves developing a text classification system using a Retrieval-Augmented Generation (RAG) approach with a pre-trained large language model (LLM) to categorize customer support tickets. The system retrieves relevant information from a knowledge base and generates appropriate classification labels for each support ticket. The goal is to accurately classify tickets into predefined categories based on their content.
 
