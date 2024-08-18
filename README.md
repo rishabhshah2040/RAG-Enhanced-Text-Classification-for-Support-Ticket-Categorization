@@ -2,7 +2,10 @@
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-29B5E8?style=for-the-badge&logo=HuggingFace&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-29B5E8?style=for-the-badge&logo=HuggingFace&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence Transformers-4285F4?style=for-the-badge&logo=Sentence Transformers&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF9900?style=for-the-badge&logo=numpy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF9900?style=for-the-badge&logo=faiss&logoColor=white)
 
 ## Overview
 This task involves developing a text classification system using a Retrieval-Augmented Generation (RAG) approach with a pre-trained large language model (LLM) to categorize customer support tickets. The system retrieves relevant information from a knowledge base and generates appropriate classification labels for each support ticket. The goal is to accurately classify tickets into predefined categories based on their content.
