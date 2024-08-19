@@ -40,29 +40,3 @@ The project aims to develop an automated text classification system to categoriz
 5. **Error Handling**: Comprehensive error handling and logging are implemented to ensure robustness and ease of debugging.
 
 The rationale behind this approach is to combine the strengths of retrieval-based systems (quick access to relevant information) with the generative capabilities of large language models. This allows for more accurate and contextually relevant classifications.
-
-## Results
-The system successfully classifies support tickets into the predefined categories. It handles a variety of ticket types, from login issues to performance problems, with good accuracy.
-
-Ticket 1:
-Text: My account login is not working. I've tried resetting my password twice.
-Classification: Category 1 -Login Issues -Login issues often occur due to incorrect passwords or account lockouts.
-
-Ticket 2:
-Text: The app crashes every time I try to upload a photo.
-Classification: Category 2 -App Functionality -App crashes can be caused by outdated software or device incompatibility.
-
-Ticket 3:
-Text: I was charged twice for my last subscription payment.
-Classification: Category 3 -Billing -Billing discrepancies may result from processing errors or duplicate transactions.
-
-Ticket 4:
-Text: I can't find the option to change my profile picture.
-Classification: Category 4 -Account Management -Account management includes tasks such as changing profile information, linking social media accounts, and managing privacy settings.
-
-Ticket 5:
-Text: The video playback is very laggy on my device.
-Classification: Category 5 -Performance Issues -Performance issues can be related to device specifications, network connectivity, or app optimization.
-
-
-
